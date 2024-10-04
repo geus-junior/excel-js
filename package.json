@@ -1,0 +1,9 @@
+{
+  "name": "js-lsb79z",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "exceljs": "^3.8.2",
+    "file-saver": "^2.0.2"
+  }
+}
